@@ -3,7 +3,7 @@ Extends the "No Distractions" view to display the sidebar when pointing at the l
 
 
 ## Installation
-Open the [Extension Manager](https://github.com/adobe/brackets/wiki/Brackets-Extensions) (File → Extension Manager), search for "No Distractions Advanced" and hit install.
+Open the [Extension Manager](https://github.com/adobe/brackets/wiki/Brackets-Extensions) (File → Extension Manager), search for "No Distractions Advanced Toolbar View" and hit install.
 
 ## Usage
 Enable the "No Distractions" view (View → No Distractions Toolbar View) and point to the left/right edge of the editor.
