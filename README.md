@@ -1,4 +1,4 @@
-# Brackets No Distractions Advanced
+# Brackets No Distractions Advanced Toolbar View
 Extends the "No Distractions" view to display the sidebar when pointing at the left side of the editor and the toolbar when pointing at the right side.
 
 
