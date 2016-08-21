@@ -1,5 +1,5 @@
 {
-    "name": "OHM79.no-distractions-advanced-Toolbar-View",
+    "name": "ohm79.no-distractions-advanced-toolbar-view",
     "title": "No Distractions Advanced Toolbar View",
     "description": "Extends the \"No Distractions\" view to display the sidebar when pointing at the left side of the editor and the toolbar when pointing at the right side.add right side toolbar visible change.",
     "keywords": [
