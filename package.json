@@ -1,7 +1,7 @@
 {
-    "name": "holmar.no-distractions-advanced",
-    "title": "No Distractions Advanced",
-    "description": "Extends the \"No Distractions\" view to display the sidebar when pointing at the left side of the editor and the toolbar when pointing at the right side.",
+    "name": "no-distractions-advanced-Toolbar-View",
+    "title": "No Distractions Advanced Toolbar View",
+    "description": "Extends the \"No Distractions\" view to display the sidebar when pointing at the left side of the editor and the toolbar when pointing at the right side.add right side toolbar visible change.",
     "keywords": [
         "sidebar",
         "toolbar",
@@ -12,9 +12,9 @@
         "minimal"
     ],
     "categories": "editing",
-    "homepage": "https://github.com/holmar/brackets-no-distractions-advanced",
-    "version": "1.0.1",
-    "author": "Martin Holler",
+    "homepage": "https://github.com/OHM79/brackets-no-distractions-advanced-Toolbar-View.git",
+    "version": "1.0.0",
+    "author": "ryunosuke tada",
     "license": "MIT",
     "engines": {
         "brackets": ">=1.6.0"
